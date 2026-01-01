@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "npm --prefix \"Chat Application\" run dev"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.18"
+  }
+}
